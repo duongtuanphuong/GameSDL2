@@ -22,7 +22,7 @@
   - Xử lý va chạm của đạn bắn nhân vật và mục tiêu
   - Xử lý va chạm giữa nhân vật và mục tiêu
   
-  Video demo code : Video đang bị lỗi nên phải upload lại.
+  Video demo code : https://www.youtube.com/watch?v=t_Qi0WU3uHY
 ## Các kỹ thuật lập trình 
   - Chương trình được chia ra làm nhiều class để xử lý cho từng đối tượng. Vd : Nhân vật <-> MainObject, Mục tiêu <-> ThreatObject,.....
   - Các Struct được khai báo chung trong CommonFunc.h để các Class kế thừa có thể tái sử dụng
