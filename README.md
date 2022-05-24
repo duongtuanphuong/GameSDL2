@@ -10,4 +10,6 @@
   
  ## Cài đặt chương trình
   - Khi code mình đã sử dụng Visual studio 2012 nên đã tránh lỗi thì mọi người hãy dùng nó để chạy thử demo.
-  - 
+  ![Screenshot_2](https://user-images.githubusercontent.com/43140650/169954547-4ff41ec5-aacf-4c28-8717-4d8993c2a3c5.png)
+  - Sau khi vào được code thì F7 để build và F5 để chạy game.
+ ##
